@@ -16,7 +16,7 @@ var bot *tg.Bot
 
 func main() {
 	var err error
-	bot, err = tg.NewBot("469873862:AAG2G0rPL0Fw2ExZEd50UxvjwNPRGv-BvQE")
+	bot, err = tg.NewBot("")
 
 	if err != nil {
 		log.Panic(err)

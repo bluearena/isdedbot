@@ -1,0 +1,2 @@
+# isdedbot
+IsDed?
